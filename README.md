@@ -13,6 +13,7 @@ The project currently only works on macOS
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
 3. Compile and run the project.
-make && ./cub3D maps/defaultmap.cub
+
+*make && ./cub3D maps/defaultmap.cub*
 
 Note: The necessary libraries and dependencies will be installed with the make command.
